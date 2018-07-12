@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jeegem-provider-dubbo:war">
+    <output-path>$PROJECT_DIR$/jeegem-provider-dubbo/target</output-path>
+    <root id="archive" name="jeegem-provider-dubbo.war">
+      <element id="artifact" artifact-name="jeegem-provider-dubbo:war exploded" />
+    </root>
+  </artifact>
+</component>

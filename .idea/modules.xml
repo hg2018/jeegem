@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jeegem.iml" filepath="$PROJECT_DIR$/jeegem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeegem-core/jeegem-core.iml" filepath="$PROJECT_DIR$/jeegem-core/jeegem-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeegem-dao/jeegem-dao.iml" filepath="$PROJECT_DIR$/jeegem-dao/jeegem-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeegem-provider-dubbo/jeegem-provider-dubbo.iml" filepath="$PROJECT_DIR$/jeegem-provider-dubbo/jeegem-provider-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeegem-service/jeegem-service.iml" filepath="$PROJECT_DIR$/jeegem-service/jeegem-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeegem-web-admin/jeegem-web-admin.iml" filepath="$PROJECT_DIR$/jeegem-web-admin/jeegem-web-admin.iml" />
+    </modules>
+  </component>
+</project>
